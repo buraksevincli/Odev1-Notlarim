@@ -653,7 +653,7 @@ GameObject:
   - component: {fileID: 1471727165}
   - component: {fileID: 1471727163}
   m_Layer: 0
-  m_Name: PractiseScripts
+  m_Name: PracticeScripts
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
